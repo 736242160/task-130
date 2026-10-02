@@ -1,0 +1,6 @@
+{"doc": "甲", "name": "x", "definition": "旧x"}
+{"doc": "甲", "name": "x", "definition": "新x（遮蔽旧x）"}
+{"doc": "乙", "name": "y", "definition": "乙的y"}
+{"doc": "甲", "name": "shared", "definition": "甲的shared"}
+{"doc": "乙", "name": "shared", "definition": "乙的shared"}
+{"doc": "丁", "name": "z", "definition": "指向未知文档的声明"}
